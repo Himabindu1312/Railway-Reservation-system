@@ -25,8 +25,8 @@ assumptions that need to be considered, for example:
 • Total Number of trains are 5
 • Any stops made by a train before its destination and their bookings are not considered.
 
-##Create a GUI for the RRS database SQL Queries:
-##Railway Reservation Application: 
+## Create a GUI for the RRS database SQL Queries:
+## Railway Reservation Application: 
 Create a simple and friendly GUI interface that would be able to perform the following tasks. 
 You may use JAVA programming using JDBC, or C/C++/C# programming with ODBC/Oracle 
 or Python programming or PHP/MySQL or other programming languages to develop a GUI 
